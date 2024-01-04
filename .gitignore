@@ -1,0 +1,8 @@
+debug.py
+data_exploration
+airflow
+__pycache__
+db
+
+data/raw/*/
+data/normalized/*/

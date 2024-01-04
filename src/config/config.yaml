@@ -1,0 +1,13 @@
+
+endpoint: "https://eonet.gsfc.nasa.gov/api/v3/events"
+
+locations:
+  raw: "/data/raw"
+  normalized: "/data/normalized"
+
+database:
+  host: "postgres-app"
+  port: "5432"
+  database: "earth-events"
+  user: "app"
+  password: "app"
